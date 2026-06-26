@@ -1,0 +1,6 @@
+{
+  "name": "CareerHub AI",
+  "description": "Separate professional portals for Students and Recruiters featuring ATS Resume Analysis, AI Interview Coaching, and Candidate Ranking powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
